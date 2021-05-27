@@ -4,7 +4,7 @@
 </head>
 <body>
 <center> <p>This is blah</p></center>
-<img src="D:\chair\References\Reference Photos\chair.jpg" height="500px" width="1500px">
+<img src="D:\chair\References\Reference Photos\chair.jpg">
 <iframe width="560" height="315" src="https://www.youtube.com/embed/bFOyM1K3swc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 <table>
 <tr>
